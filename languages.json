@@ -6,27 +6,27 @@
         },
         "about": {
             "en": "About",
-            "de": ""
+            "de": "Über uns"
         },
         "courses": {
             "en": "Courses",
-            "de": ""
+            "de": "Kurse"
         },
         "gallery": {
             "en": "Gallery",
-            "de": ""
+            "de": "Gallerie"
         },
         "blog": {
             "en": "Blog",
-            "de": ""
+            "de": "Blog"
         },
         "partners": {
             "en": "Partners",
-            "de": ""
+            "de": "Partner"
         },
         "contact": {
             "en": "Contact",
-            "de": ""
+            "de": "Kontakt"
         }
     },
     "home": {
@@ -177,7 +177,7 @@
                     "de": "Gallerie"
                 }
             },
-            "Alpine Fellowship": {
+            "alpine_fellowship": {
                 "content": {
                     "en": "In 2018 Alexandra Slava was awarded the Visual Art Prize by The Alpine Fellowship for her sculpture “My Shelter”. The Alpine Fellowship is a charitable foundation that supports visual artists, writers, academics and playwrights at all stages of their careers. Every year the organization awards writing, visual arts, and theatre prizes concerning the years’ theme. In 2018 the Alpine Fellowship Symposium took place in Venice, Italy and the Visual Art Prize was announced by Julian Spalding, an English art critic, writer, broadcaster and a former curator.",
                     "de": "2018 zeichnete die Alpine Fellowship Alexandra Slava für ihre Skulptur „My Shelter“ mit dem Preis für visuelle Kunst aus. Alpine Fellowship ist eine gemeinnützige Stiftung, die bildende Künstler, Schriftsteller, Akademiker und Dramaturgen in allen Phasen ihrer Karriere unterstützt. Jedes Jahr vergibt sie Preise für Schrift, bildende Kunst und Theater zum Thema des Jahres. 2018 fand das Alpine Fellowship Symposium in Venedig, Italien, statt. Der Visual Art Prize wurde von Julian Spalding, einem englischen Kunstkritiker, Schriftsteller, Rundfunksprecher und ehemaligen Kurator, bekannt gegeben."
